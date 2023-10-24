@@ -1,0 +1,29 @@
+.im1{
+    float: left;
+    width: 100%;
+    height: 100%
+}
+.d1:hover{
+    background-color: #807a7a82;
+}
+.d1{
+    height: 80%;
+    background-color: aliceblue
+}
+.container-fluid ul{
+    list-style-type: none;
+}
+.btn{
+    background-color: #f1a541;
+    margin-left: 40%;
+}
+.p1{
+    margin-top: 8%;
+    
+    text-align: justify;
+}
+
+.btn:hover{
+    background-image: linear-gradient(#f1a541,white);
+    /* transform: scale(1.1) */
+}
